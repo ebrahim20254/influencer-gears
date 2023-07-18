@@ -60,6 +60,8 @@ nav h2{
 .btn-primary{
     background: #E02C6D;
     color: #FFF;
+    padding: 15px 20px;
+    border-radius: 10px;
 }
 .hero-text{
     text-align: center;
